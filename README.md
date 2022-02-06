@@ -80,7 +80,8 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 ### Wyszukiwanie
 ![image](https://user-images.githubusercontent.com/35393983/152699236-50de1dd9-b4f1-4f46-b3cf-463a762c1177.png)
 ### Edycja
-
+![image](https://user-images.githubusercontent.com/35393983/152700349-3fe8d960-9dc4-4c78-a796-140d0c8763f5.png)
+![image](https://user-images.githubusercontent.com/35393983/152700359-b5266308-00cc-41e0-adf4-a840dcb94cf8.png)
 
 
 
