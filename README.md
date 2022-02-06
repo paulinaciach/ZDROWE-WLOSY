@@ -380,8 +380,8 @@ switch (weather) {
 
 ```
 
-## Screenshots
-### Landing page
+## Ilustracje
+### Home page
 ![Landing page](/DelegationsMVC.Web/wwwroot/images/ScreenShots/welcome_page.PNG)
 ### Login page
 ![Login page](/DelegationsMVC.Web/wwwroot/images/ScreenShots/login_page.PNG)
