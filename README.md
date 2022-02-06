@@ -79,6 +79,8 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 ![tempsnip](https://user-images.githubusercontent.com/35393983/152699209-e220dcde-faae-4f09-9203-1d3829349d0e.png)
 ### Wyszukiwanie
 ![image](https://user-images.githubusercontent.com/35393983/152699236-50de1dd9-b4f1-4f46-b3cf-463a762c1177.png)
+### Edycja
+
 
 
 
