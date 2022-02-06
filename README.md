@@ -67,7 +67,7 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 
 ## Ilustracje
 ### Strona Główna
-![image](https://user-images.githubusercontent.com/35393983/152699072-367c1912-1f83-440a-8afe-091d8a9529c5.png)
+![image](https://user-images.githubusercontent.com/35393983/152700417-07da38cf-3658-488a-a8a1-3fce29efcbd9.png)
 ### Strona logowania
 ![image](https://user-images.githubusercontent.com/35393983/152699107-bf0f9772-8391-41b2-84fd-de4293a16c40.png)
 ### Autentykacja Google
