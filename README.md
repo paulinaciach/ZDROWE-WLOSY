@@ -40,7 +40,7 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 * Google API -> Google OAuth 2.0 
 
 **Architektura uruchomieniowa:**
-* Visual Code
+* Visual Studio Code
 
 **Zainstalowane narzedzia:**
 
