@@ -74,7 +74,7 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 ![image](https://user-images.githubusercontent.com/35393983/152699636-3c4d675e-594e-4f74-84af-f64a3232ad32.png)
 ![image](https://user-images.githubusercontent.com/35393983/152699645-a0247604-30e9-4074-8689-38aa7b5a6a64.png)
 ### Widok zalogowanego użytkownika
-![image](https://user-images.githubusercontent.com/35393983/152699131-3801bb29-e69a-4a9e-8633-322534cfae73.png)
+![image](https://user-images.githubusercontent.com/35393983/152700457-db4db966-1f4b-4dcf-b0df-f382cebbd8e0.png)
 ### Ściaganie PDF
 ![tempsnip](https://user-images.githubusercontent.com/35393983/152699209-e220dcde-faae-4f09-9203-1d3829349d0e.png)
 ### Wyszukiwanie
