@@ -1,0 +1,8 @@
+body {
+    background-color: #ffffff;
+    background-image: linear-gradient(90deg, rgba(238,174,202,0.5746673669467788) 0%, rgba(173,183,224,1) 57%,
+     rgba(148,187,233,0) 100%), url("C:\Users\paulina.ciach\Desktop\MEREN_PROJECT_FINAL\client\src\images\nicolette-meade-RL3F99l0XYE-unsplash.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;  
+}
