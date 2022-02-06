@@ -76,12 +76,13 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 ### Widok zalogowanego użytkownika
 ![image](https://user-images.githubusercontent.com/35393983/152700457-db4db966-1f4b-4dcf-b0df-f382cebbd8e0.png)
 ### Ściaganie PDF
-![tempsnip](https://user-images.githubusercontent.com/35393983/152699209-e220dcde-faae-4f09-9203-1d3829349d0e.png)
+![tempsnip](https://user-images.githubusercontent.com/35393983/152700661-d9e5fd6a-d858-4d16-862e-59eaaea79598.png)
 ### Wyszukiwanie
 ![image](https://user-images.githubusercontent.com/35393983/152699236-50de1dd9-b4f1-4f46-b3cf-463a762c1177.png)
 ### Edycja
 ![image](https://user-images.githubusercontent.com/35393983/152700349-3fe8d960-9dc4-4c78-a796-140d0c8763f5.png)
 ![image](https://user-images.githubusercontent.com/35393983/152700359-b5266308-00cc-41e0-adf4-a840dcb94cf8.png)
+
 
 
 
